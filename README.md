@@ -3,7 +3,7 @@ A M/M/S queue simulator in python.
 
 Para executar no linux:
 basta dar git clone, ou baixar os arquivos deste repositório.
-Instalar as bibliotecas necessárias.
+Instalar as bibliotecas necessárias, elas estão especificadas em requirements.
 
 Executar o arquivo main.py no terminal.
 
